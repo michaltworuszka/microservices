@@ -1,0 +1,6 @@
+com\tworuszka\fraud\FraudCheckHistoryRepository.class
+com\tworuszka\fraud\FraudApplication.class
+com\tworuszka\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\tworuszka\fraud\FraudCheckHistoryService.class
+com\tworuszka\fraud\FraudCheckHistory.class
+com\tworuszka\fraud\FraudController.class

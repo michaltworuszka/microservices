@@ -1,0 +1,8 @@
+com\tworuszka\customer\Customer$CustomerBuilder.class
+com\tworuszka\customer\CustomerService.class
+com\tworuszka\customer\CustomerConfig.class
+com\tworuszka\customer\CustomerApplication.class
+com\tworuszka\customer\CustomerController.class
+com\tworuszka\customer\CustomerRepository.class
+com\tworuszka\customer\Customer.class
+com\tworuszka\customer\CustomerRegistrationRequest.class

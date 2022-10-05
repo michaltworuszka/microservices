@@ -1,0 +1,8 @@
+com\tworuszka\notification\NotificationApplication.class
+com\tworuszka\notification\NotificationRepository.class
+com\tworuszka\notification\NotificationConfig.class
+com\tworuszka\notification\rabbitmq\NotificationConsumer.class
+com\tworuszka\notification\NotificationService.class
+com\tworuszka\notification\Notification$NotificationBuilder.class
+com\tworuszka\notification\Notification.class
+com\tworuszka\notification\NotificationController.class

@@ -1,0 +1,4 @@
+com\tworuszka\clients\fraud\FraudCheckResponse.class
+com\tworuszka\clients\notification\NotificationClient.class
+com\tworuszka\clients\fraud\FraudClient.class
+com\tworuszka\clients\notification\NotificationRequest.class
